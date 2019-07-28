@@ -1,0 +1,19 @@
+@media (max-width:  1366px){
+    .phone{
+        display: none;
+    }
+    .titles{
+        width: 80%;
+    }
+    .heading{
+        width: 99%;
+    }
+}
+@media (max-width:  1160px) {
+    .heading {
+        width: 69%;
+    }
+    .dev_two_img{
+        width: 100%;
+    }
+}
